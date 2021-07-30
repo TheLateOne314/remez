@@ -1,0 +1,3 @@
+L = [(abs(p(i)-testf(i))) for i in x1]
+max_value = max(L)
+my = x1[L.index(max_value)]
